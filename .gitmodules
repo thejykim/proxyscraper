@@ -1,0 +1,3 @@
+[submodule "scripts/proxy-scraper"]
+	path = scripts/proxy-scraper
+	url = https://github.com/iw4p/proxy-scraper.git
