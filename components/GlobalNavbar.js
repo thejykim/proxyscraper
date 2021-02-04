@@ -4,7 +4,7 @@ import { Container, Nav, Navbar } from 'react-bootstrap';
 
 const GlobalNavbar = () => {
     return (
-        <Navbar bg="light" expand="lg">
+        <Navbar bg="dark" expand="lg" variant="dark">
             <Container>
                 <Navbar.Brand href="/">Proxy Scraper</Navbar.Brand>
                 <Navbar.Toggle aria-controls="navbar-nav" />

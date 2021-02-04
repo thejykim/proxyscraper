@@ -15,3 +15,7 @@ a {
 * {
   box-sizing: border-box;
 }
+
+div.card {
+    border-radius: 12px;
+}
